@@ -38,6 +38,8 @@ Daha fazlası için .yardım veya .help komutlarını kullanabilirsiniz.
 
 Mesaj içeriklerini, embedleri, sistem mesajlarını, genel görüntüler isteğinize göre dizayn edilir ve özelleştirilebilir.
 
+💵 Satın alım; Altyapı olarak henüz satışa çıkarmadık ama aylık kiralama ve daha fazla bilgi için discord sunucumuza katılabilir veya schwest. yazabilirsiniz.
+
 🤝 Katkıda Bulunma
 
 Fikirleriniz mi var? Discord sunucumuza katılarak önerilerinizi paylaşabilirsiniz.
