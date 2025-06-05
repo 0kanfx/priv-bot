@@ -28,6 +28,7 @@ Açılır Kapanır Guard Sistemleri: Güvenlik odaklı koruma mekanizmaları.
 Çok Fonksiyonlu Koruma: Webhook, kanal, rol, üye, sağ tık ve URL koruması.
 
 📦 Genel İçerik
+
 1x Main
 
 1x Database
@@ -41,6 +42,7 @@ Açılır Kapanır Guard Sistemleri: Güvenlik odaklı koruma mekanizmaları.
 Daha fazlası için .yardım veya .help komutlarını kullanabilirsiniz.
 
 🎮 Kullanım
+
 .help: Bot yardım komudu.
 .me: Kullanıcı istatistiği.
 .top: Sunucu içi istatistik sıralaması.
@@ -49,12 +51,15 @@ Daha fazlası için .yardım veya .help komutlarını kullanabilirsiniz.
 
 
 🎨 Özelleştirme
+
 Mesaj içeriklerini, embedleri, sistem mesajlarını, genel görüntüler isteğinize göre dizayn edilir ve özelleştirilebilir.
 
 💵 Satın alım
+
 Altyapı olarak henüz satışa çıkarmadık ama aylık kiralama ve daha fazla bilgi için discord sunucumuza katılabilir veya schwest. yazabilirsiniz.
 
 🤝 Katkıda Bulunma
+
 Fikirleriniz mi var? Discord sunucumuza katılarak önerilerinizi paylaşabilirsiniz.
 Hataları bildirmek için Discord sunucumuza katılın: https://discord.gg/nexshop
 
