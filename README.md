@@ -2,6 +2,7 @@ Discord V14 Priv Botu 🎨
 Merhaba! Bu, Discord priv sunucularınız için eğlenceli ve dinamik bir botudur! Kullanıcı etkileşimini artırarak sunucunuzun aktifliğini en üst düzeye çıkarın. 😊
 
 🚀 Genel Özellikler;
+
 Açılır Kapanır Sistemler: Register, stat, invite ve tag modu gibi özellikler.
 
 Fonksiyonlu Komutlar: 100’den fazla özel Discord komutu.
