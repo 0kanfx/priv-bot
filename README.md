@@ -1,8 +1,7 @@
 Discord V14 Priv Botu 🎨
 Merhaba! Bu, Discord priv sunucularınız için eğlenceli ve dinamik bir botudur! Kullanıcı etkileşimini artırarak sunucunuzun aktifliğini en üst düzeye çıkarın. 😊
 
-🚀 Genel Özellikler
-
+🚀 Genel Özellikler;
 Açılır Kapanır Sistemler: Register, stat, invite ve tag modu gibi özellikler.
 
 Fonksiyonlu Komutlar: 100’den fazla özel Discord komutu.
@@ -28,17 +27,19 @@ Açılır Kapanır Guard Sistemleri: Güvenlik odaklı koruma mekanizmaları.
 Çok Fonksiyonlu Koruma: Webhook, kanal, rol, üye, sağ tık ve URL koruması.
 
 📦 Genel İçerik
-
 1x Main
+
 1x Database
+
 1x Statistic
+
 4x Guard
+
 İsteğe bağlı sınırsız Welcome sistemi
 
 Daha fazlası için .yardım veya .help komutlarını kullanabilirsiniz.
 
 🎮 Kullanım
-
 .help: Bot yardım komudu.
 .me: Kullanıcı istatistiği.
 .top: Sunucu içi istatistik sıralaması.
@@ -47,13 +48,12 @@ Daha fazlası için .yardım veya .help komutlarını kullanabilirsiniz.
 
 
 🎨 Özelleştirme
-
 Mesaj içeriklerini, embedleri, sistem mesajlarını, genel görüntüler isteğinize göre dizayn edilir ve özelleştirilebilir.
 
-💵 Satın alım; Altyapı olarak henüz satışa çıkarmadık ama aylık kiralama ve daha fazla bilgi için discord sunucumuza katılabilir veya schwest. yazabilirsiniz.
+💵 Satın alım
+Altyapı olarak henüz satışa çıkarmadık ama aylık kiralama ve daha fazla bilgi için discord sunucumuza katılabilir veya schwest. yazabilirsiniz.
 
 🤝 Katkıda Bulunma
-
 Fikirleriniz mi var? Discord sunucumuza katılarak önerilerinizi paylaşabilirsiniz.
 Hataları bildirmek için Discord sunucumuza katılın: https://discord.gg/nexshop
 
